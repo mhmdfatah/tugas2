@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tugas2</string>
+    <string name="luas">Luas alas</string>
+    <string name="selimut">Luas Selimut</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+</resources>
